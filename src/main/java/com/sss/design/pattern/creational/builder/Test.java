@@ -1,10 +1,18 @@
 package com.sss.design.pattern.creational.builder;
 
+import com.sss.design.pattern.creational.builder.pre.Coach;
+import com.sss.design.pattern.creational.builder.pre.Course;
+import com.sss.design.pattern.creational.builder.pre.CourseActualBuilder;
+import com.sss.design.pattern.creational.builder.pre.CourseBuilder;
+
 /**
- * Created by geely
+ * @author sss
  */
 public class Test {
     public static void main(String[] args) {
+
+
+
         Builder builder = new ActualBuilder();
         DirectorBoss directorBoss = new DirectorBoss();
         directorBoss.setBuilder(builder);

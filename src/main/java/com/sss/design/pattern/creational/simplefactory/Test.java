@@ -1,7 +1,7 @@
 package com.sss.design.pattern.creational.simplefactory;
 
 /**
- * Created by geely
+ * @author sss
  */
 public class Test {
     public static void main(String[] args) {
@@ -18,9 +18,5 @@ public class Test {
             return;
         }
         video.produce();
-
-
-
     }
-
 }

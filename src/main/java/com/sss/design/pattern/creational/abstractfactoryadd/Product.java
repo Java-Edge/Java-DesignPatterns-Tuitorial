@@ -1,10 +1,11 @@
-package com.sss.design.pattern.creational.factory.std;
+package com.sss.design.pattern.creational.abstractfactoryadd;
 
 /**
  * @author sss
  * @date 2018/11/1
  */
 public abstract class Product {
+
     /**
      * 产品类的公共方法
      */

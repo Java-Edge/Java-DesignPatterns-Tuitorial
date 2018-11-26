@@ -1,10 +1,15 @@
 package com.sss.design.pattern.creational.prototype.clone;
 
+import lombok.Getter;
+import lombok.Setter;
+
 import java.util.Date;
 
 /**
- * Created by geely
+ * @author sss
  */
+@Getter
+@Setter
 public class Pig implements Cloneable{
     private String name;
     private Date birthday;
@@ -14,21 +19,6 @@ public class Pig implements Cloneable{
         this.birthday = birthday;
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public Date getBirthday() {
-        return birthday;
-    }
-
-    public void setBirthday(Date birthday) {
-        this.birthday = birthday;
-    }
 
     @Override
     protected Object clone() throws CloneNotSupportedException {

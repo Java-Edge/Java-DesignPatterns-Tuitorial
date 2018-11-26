@@ -1,9 +1,10 @@
 package com.sss.design.pattern.creational.prototype.abstractprototype;
 
 /**
- * Created by geely
+ * @author sss
  */
-public abstract class A implements Cloneable{
+public abstract class AbstractA implements Cloneable{
+
     @Override
     protected Object clone() throws CloneNotSupportedException {
         return super.clone();

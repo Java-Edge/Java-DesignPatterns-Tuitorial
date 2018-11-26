@@ -1,11 +1,11 @@
 package com.sss.design.pattern.creational.prototype.abstractprototype;
 
 /**
- * Created by geely
+ * @author sss
  */
-public class B extends A {
+public class AbstractB extends AbstractA {
     public static void main(String[] args) throws CloneNotSupportedException {
-        B b = new B();
-        b.clone();
+        AbstractB abstractB = new AbstractB();
+        abstractB.clone();
     }
 }

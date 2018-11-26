@@ -1,8 +1,12 @@
 package com.sss.design.pattern.creational.abstractfactory;
 
 /**
- * Created by geely
+ * @author sss
  */
 public abstract class Article {
+
+    /**
+     * 生成博客
+     */
     public abstract void produce();
 }

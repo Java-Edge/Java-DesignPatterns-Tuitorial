@@ -1,9 +1,10 @@
 package com.sss.design.pattern.creational.abstractfactory;
 
 /**
- * Created by geely
+ * @author sss
  */
 public class PythonCourseFactory implements CourseFactory {
+
     @Override
     public Video getVideo() {
         return new PythonVideo();

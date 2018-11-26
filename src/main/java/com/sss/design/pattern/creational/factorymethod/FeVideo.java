@@ -1,9 +1,10 @@
 package com.sss.design.pattern.creational.factorymethod;
 
 /**
- * Created by geely
+ * @author sss
  */
-public class FEVideo extends Video{
+public class FeVideo extends Video{
+
     @Override
     public void produce() {
         System.out.println("录制FE课程视频");

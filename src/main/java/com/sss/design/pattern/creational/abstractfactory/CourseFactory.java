@@ -1,11 +1,21 @@
 package com.sss.design.pattern.creational.abstractfactory;
 
-
 /**
- * Created by geely
+ * @author sss
  */
 public interface CourseFactory {
-    Video getVideo();
-    Article getArticle();
 
+    /**
+     * 获取视频
+     *
+     * @return
+     */
+    Video getVideo();
+
+    /**
+     * 获取博客
+     *
+     * @return
+     */
+    Article getArticle();
 }

@@ -4,7 +4,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.util.Date;
 
 /**
- * Created by geely
+ * @author sss
  */
 public class Test {
     public static void main(String[] args) throws CloneNotSupportedException, NoSuchMethodException, InvocationTargetException, IllegalAccessException {
@@ -25,8 +25,5 @@ public class Test {
 //        HungrySingleton cloneHungrySingleton = (HungrySingleton) method.invoke(hungrySingleton);
 //        System.out.println(hungrySingleton);
 //        System.out.println(cloneHungrySingleton);
-
-
-
     }
 }

@@ -1,7 +1,7 @@
 package com.sss.design.pattern.creational.factorymethod;
 
 /**
- * Created by geely
+ * @author sss
  */
 public class Test {
     public static void main(String[] args) {
