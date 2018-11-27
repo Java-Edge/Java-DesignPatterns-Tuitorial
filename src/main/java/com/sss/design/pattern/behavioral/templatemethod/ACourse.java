@@ -21,7 +21,7 @@ public abstract class ACourse {
     }
 
     final void writeArticle() {
-        System.out.println("编写手记");
+        System.out.println("编写博客");
     }
 
     //钩子方法

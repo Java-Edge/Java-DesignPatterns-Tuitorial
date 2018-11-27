@@ -55,6 +55,11 @@
             <version>${org.springframework.version}</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.springframework.webflow</groupId>
+            <artifactId>spring-webflow</artifactId>
+            <version>2.3.0.RELEASE</version>
+        </dependency>
 
         <dependency>
             <groupId>org.aspectj</groupId>
