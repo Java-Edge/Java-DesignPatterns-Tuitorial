@@ -3,7 +3,8 @@ package com.sss.design.pattern.creational.singleton;
 import java.io.Serializable;
 
 /**
- * Created by geely
+ * @date 2019.1.16 9:32
+ * @author sss
  */
 public class HungrySingleton implements Serializable,Cloneable{
 
@@ -27,6 +28,10 @@ public class HungrySingleton implements Serializable,Cloneable{
 
     @Override
     protected Object clone() throws CloneNotSupportedException {
+//      return super.clone();
         return getInstance();
     }
 }
+
+
+
