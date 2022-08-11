@@ -1,7 +1,7 @@
 package com.javaedge.design.pattern.structural.composite;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public class Test {
     public static void main(String[] args) {

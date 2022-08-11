@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public class TeamLeader {
     public void checkNumberOfCourses(){

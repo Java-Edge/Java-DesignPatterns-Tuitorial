@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public class EmployeeFactory {
     private static final Map<String,Employee> EMPLOYEE_MAP = new HashMap<String,Employee>();

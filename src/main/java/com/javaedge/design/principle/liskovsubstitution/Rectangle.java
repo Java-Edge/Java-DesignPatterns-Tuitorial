@@ -1,7 +1,7 @@
 package com.javaedge.design.principle.liskovsubstitution;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public class Rectangle implements Quadrangle {
     private long length;

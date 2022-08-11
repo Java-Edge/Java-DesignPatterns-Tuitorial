@@ -1,7 +1,7 @@
 package com.javaedge.design.pattern.structural.adapter;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public class AC220 {
     public int outputAC220V(){

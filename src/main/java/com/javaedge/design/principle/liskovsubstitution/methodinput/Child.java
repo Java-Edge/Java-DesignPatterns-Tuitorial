@@ -3,7 +3,7 @@ package com.javaedge.design.principle.liskovsubstitution.methodinput;
 import java.util.Map;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public class Child extends Base {
 //    @Override

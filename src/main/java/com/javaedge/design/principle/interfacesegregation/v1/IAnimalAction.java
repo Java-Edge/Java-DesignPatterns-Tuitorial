@@ -1,7 +1,7 @@
-package com.javaedge.design.principle.interfacesegregation;
+package com.javaedge.design.principle.interfacesegregation.v1;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public interface IAnimalAction {
     void eat();

@@ -1,7 +1,7 @@
 package com.javaedge.design.principle.liskovsubstitution;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public interface Quadrangle {
     long getWidth();

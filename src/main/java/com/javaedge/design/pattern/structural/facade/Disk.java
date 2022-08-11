@@ -1,7 +1,7 @@
 package com.javaedge.design.pattern.structural.facade;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public class Disk {
     public void open(){

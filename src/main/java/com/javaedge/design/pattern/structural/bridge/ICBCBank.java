@@ -1,7 +1,7 @@
 package com.javaedge.design.pattern.structural.bridge;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public class ICBCBank extends Bank {
     public ICBCBank(Account account) {

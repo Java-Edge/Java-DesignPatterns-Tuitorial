@@ -1,7 +1,7 @@
 package com.javaedge.design.pattern.creational.builder;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public abstract class Builder {
     public abstract void buildCPU(String cpu);

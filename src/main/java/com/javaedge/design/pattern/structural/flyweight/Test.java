@@ -1,7 +1,7 @@
 package com.javaedge.design.pattern.structural.flyweight;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public class Test {
     private static final String departments[] = {"RD","QA","PM","BD"};

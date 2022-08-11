@@ -1,7 +1,7 @@
 package com.javaedge.design.pattern.structural.bridge;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public interface Account {
     Account openAccount();

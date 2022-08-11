@@ -1,7 +1,7 @@
 package com.javaedge.design.pattern.structural.adapter;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public class PowerAdapter implements DC5{
     private AC220 ac220 = new AC220();

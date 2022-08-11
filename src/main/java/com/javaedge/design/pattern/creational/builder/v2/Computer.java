@@ -1,7 +1,7 @@
 package com.javaedge.design.pattern.creational.builder.v2;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public class Computer {
 

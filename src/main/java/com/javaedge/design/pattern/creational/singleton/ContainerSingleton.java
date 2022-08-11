@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public class ContainerSingleton {
 

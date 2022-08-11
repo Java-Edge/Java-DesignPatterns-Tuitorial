@@ -1,7 +1,7 @@
 package com.javaedge.design.pattern.structural.composite;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public abstract class CatalogComponent {
     public void add(CatalogComponent catalogComponent){

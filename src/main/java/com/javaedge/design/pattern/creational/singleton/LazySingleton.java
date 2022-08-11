@@ -1,7 +1,7 @@
 package com.javaedge.design.pattern.creational.singleton;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public class LazySingleton {
     private static LazySingleton lazySingleton = null;

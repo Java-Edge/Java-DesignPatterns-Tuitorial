@@ -1,7 +1,7 @@
 package com.javaedge.design.principle.compositionaggregation;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public abstract class DBConnection {
 //    public String getConnection(){

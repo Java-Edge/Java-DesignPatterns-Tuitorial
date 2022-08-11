@@ -3,7 +3,7 @@ package com.javaedge.design.principle.liskovsubstitution.methodoutput;
 import java.util.HashMap;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public class Child extends Base {
     @Override

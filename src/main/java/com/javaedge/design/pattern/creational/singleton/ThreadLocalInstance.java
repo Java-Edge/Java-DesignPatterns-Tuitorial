@@ -1,7 +1,7 @@
 package com.javaedge.design.pattern.creational.singleton;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public class ThreadLocalInstance {
     private static final ThreadLocal<ThreadLocalInstance> threadLocalInstanceThreadLocal

@@ -1,7 +1,7 @@
 package com.javaedge.design.principle.compositionaggregation;
 
 /**
- * Created by Learner
+ * Created by JavaEdge
  */
 public class MySQLConnection extends DBConnection {
     @Override
