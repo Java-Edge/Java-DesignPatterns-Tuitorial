@@ -4,6 +4,7 @@ package com.javaedge.design.principle.singleresp.course;
  * @author JavaEdge
  */
 public interface ICourse {
+
     // 一类职责
     /**
      * 获取课程名
@@ -19,7 +20,7 @@ public interface ICourse {
      */
     byte[] getCourseVideo();
 
-    //二类职责
+    // 二类职责
     /**
      * 学习课程
      */
