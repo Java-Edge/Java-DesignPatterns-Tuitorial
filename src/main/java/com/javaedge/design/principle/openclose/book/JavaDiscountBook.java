@@ -1,6 +1,8 @@
-package com.javaedge.design.principle.openclose;
+package com.javaedge.design.principle.openclose.book;
 
 /**
+ * Java 书籍折扣类
+ *
  * @author JavaEdge
  */
 public class JavaDiscountBook extends JavaBook {

@@ -1,6 +1,8 @@
-package com.javaedge.design.principle.openclose;
+package com.javaedge.design.principle.openclose.book;
 
 /**
+ * 书籍接口
+ *
  * @author JavaEdge
  */
 public interface BaseBook {

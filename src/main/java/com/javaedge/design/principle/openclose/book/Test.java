@@ -1,8 +1,10 @@
-package com.javaedge.design.principle.openclose;
+package com.javaedge.design.principle.openclose.book;
 
 import lombok.extern.slf4j.Slf4j;
 
 /**
+ * 测试类
+ *
  * @author JavaEdge
  */
 @Slf4j
