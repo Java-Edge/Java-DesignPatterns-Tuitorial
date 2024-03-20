@@ -14,15 +14,15 @@ public class ByteBuddyDemo {
 
     public static void main(String[] args) {
 
-        Class<? extends T> clazz = ByteBuddy.subclass(clz)
-                .method(ElementMatchers.isDeclaredBy(clz))
-                .intercept(MethodDelegation.to(new ByteBuddyInvocationHandler(invoker)))
-                .make()
-                .load(classLoader, ClassLoadingStrategy.Default.INJECTION)
-                .getLoaded();
-        try {
-            return clazz.newInstance();
-        } catch (Exception e) {
-        }
+//        Class<? extends T> clazz = ByteBuddy.subclass(clz)
+//                .method(ElementMatchers.isDeclaredBy(clz))
+//                .intercept(MethodDelegation.to(new ByteBuddyInvocationHandler(invoker)))
+//                .make()
+//                .load(classLoader, ClassLoadingStrategy.Default.INJECTION)
+//                .getLoaded();
+//        try {
+//            return clazz.newInstance();
+//        } catch (Exception e) {
+//        }
     }
 }

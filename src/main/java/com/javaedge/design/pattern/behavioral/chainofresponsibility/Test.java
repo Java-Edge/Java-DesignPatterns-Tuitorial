@@ -11,7 +11,7 @@ public class Test {
 
         Course course = new Course();
         course.setName("公众号-Learner");
-        course.setArticle("JavaEdge的博客");
+//        course.setArticle("JavaEdge的博客");
         course.setVideo("JavaEdge的小视频");
 
         articleApprover.setNextApprover(videoApprover);
