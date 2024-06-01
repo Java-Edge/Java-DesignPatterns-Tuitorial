@@ -1,6 +1,8 @@
 package com.javaedge.design.pattern.creational.builder.pre;
 
 /**
+ * 测试类
+ *
  * @author JavaEdge
  */
 public class Test {

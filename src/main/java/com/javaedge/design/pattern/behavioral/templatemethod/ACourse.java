@@ -4,7 +4,7 @@ public abstract class ACourse {
 
     protected final void makeCourse() {
         this.makePPT();
-        this.makeVedio();
+        this.makeVideo();
         if (needWriteArticle()) {
             this.writeArticle();
         }
@@ -16,7 +16,7 @@ public abstract class ACourse {
 
     }
 
-    final void makeVedio() {
+    final void makeVideo() {
         System.out.println("制作视频");
     }
 

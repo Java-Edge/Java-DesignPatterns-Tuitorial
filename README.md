@@ -27,7 +27,6 @@
 更多精彩内容将发布在公众号 **JavaEdge**，公众号提供大量求职面试资料，后台回复 "面试" 即可领取。
 
 本号系统整理了Java高级工程师必备技能点，帮你理清纷杂面试知识点，有的放矢。
-我本人也是基于这些知识体系，在各种求职征途中拿到百度、携程、华为、中兴、顺丰、帆软、货拉拉等offer。
 
 <img src="assets/公众号.png">
 
@@ -48,25 +47,19 @@
     <br> <br>
 </div>
 
-## QQ 技术交流群
+## 电报技术交流群
 
 为大家提供一个学习交流平台，在这里你可以自由地讨论技术问题。
-
-<img src="assets/QQ 群.JPG" width="180px">
+https://t.me/javaedgechat
 
 ## 微信交流群
 <img src="assets/微信群.jpeg" width="180px">
 
-### 本人微信
+### 微信联系
 <img src="assets/个人微信.jpeg" width="180px">
 
 ## Java源码模拟面试解析指南
 
 <a href="https://www.nowcoder.com/tutorial/10029/index">
     <img src="assets/牛客专刊.png" width="80px"></a>
-
-### 绘图工具
-
-- [draw.io](https://www.draw.io/)
-- keynote
 
