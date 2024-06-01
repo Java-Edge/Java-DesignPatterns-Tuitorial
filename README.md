@@ -27,8 +27,9 @@
 更多精彩内容将发布在公众号 **JavaEdge**，公众号提供大量求职面试资料，后台回复 "面试" 即可领取。
 
 本号系统整理了Java高级工程师必备技能点，帮你理清纷杂面试知识点，有的放矢。
-
-<img src="assets/公众号.jpg">
+<div align="center">
+    <img src="assets/公众号.jpg" width="200px">
+</div>
 
 ## 3 笔者简介
 
