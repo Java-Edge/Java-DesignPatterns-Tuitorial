@@ -32,16 +32,8 @@
 
 ## 3 笔者简介
 
-### [阿里云栖社区博客专家](https://yq.aliyun.com/users/article?spm=a2c4e.8091938.headeruserinfo.3.65993d6eqaQ0O6)
-
-![](https://img-blog.csdnimg.cn/20190712131824494.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_SmF2YUVkZ2U=,size_1,color_FFFFFF,t_70)
-
-### [腾讯云自媒体邀约计划作者](https://cloud.tencent.com/developer/user/1752328)
-
-![](https://img-blog.csdnimg.cn/20190712140323352.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_SmF2YUVkZ2U=,size_1,color_FFFFFF,t_70)
-
 <div align="center">
-    <img src="assets/LOGO.png" width="200px">
+    <img src="assets/LOGO.jpg" width="200px">
     <br>
     <a href="https://github.com/Wasabi1234/Java-Interview-Tutorial"> <img src="https://img.shields.io/badge/>-read-4ab8a1.svg"></a>  <a href="https://github.com/Wasabi1234"> <img src="https://img.shields.io/badge/_-more-4ab8a1.svg"></a>
     <br> <br>
@@ -51,12 +43,6 @@
 
 为大家提供一个学习交流平台，在这里你可以自由地讨论技术问题。
 https://t.me/javaedgechat
-
-## 微信交流群
-<img src="assets/微信群.jpeg" width="180px">
-
-### 微信联系
-<img src="assets/个人微信.jpeg" width="180px">
 
 ## Java源码模拟面试解析指南
 
