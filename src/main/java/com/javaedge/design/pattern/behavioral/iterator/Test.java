@@ -1,4 +1,4 @@
-package com.javaedge.design.pattern.behavioral.iterator.demo1;
+package com.javaedge.design.pattern.behavioral.iterator;
 
 /**
  * @author JavaEdge

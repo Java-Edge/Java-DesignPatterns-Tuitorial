@@ -1,15 +1,11 @@
 package com.javaedge.design.pattern.creational.prototype;
 
-import lombok.Getter;
-import lombok.Setter;
-import lombok.ToString;
+import lombok.Data;
 
 /**
  * @author JavaEdge
  */
-@Getter
-@Setter
-@ToString
+@Data
 public class Mail implements Cloneable{
     private String name;
     private String emailAddress;
