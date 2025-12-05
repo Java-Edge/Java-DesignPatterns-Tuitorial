@@ -1,4 +1,4 @@
-package com.javaedge.design.pattern.structural.flyweight.editor;
+package com.javaedge.design.pattern.structural.flyweight.editor.old;
 
 import java.awt.*;
 import java.util.ArrayList;

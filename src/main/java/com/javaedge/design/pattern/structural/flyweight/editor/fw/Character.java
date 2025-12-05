@@ -1,4 +1,4 @@
-package com.javaedge.design.pattern.structural.flyweight.editor;
+package com.javaedge.design.pattern.structural.flyweight.editor.fw;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -17,9 +17,5 @@ public class Character {
 
     private char c;
 
-    private Font font;
-
-    private int size;
-
-    private int colorRGB;
+    private CharacterStyle style;
 }
